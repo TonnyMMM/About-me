@@ -1,6 +1,6 @@
 # Hi there
 I am currently a Data Analyst
-I work with SAP and MS excel 
+I work with SAP and MS excel and SQL
 I am an aspiring Data scientist 
 I am currently studying post graduate diploma in data science with the university of kwa zulu natal in Durban south Africa 
 I work for a large retail company in south Africa and parts of Africa
